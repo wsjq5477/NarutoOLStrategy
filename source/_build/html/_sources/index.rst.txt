@@ -5,7 +5,16 @@
 
 火影忍者忍者新世代攻略集
 ====================================================
+本攻略集为《火影忍者ol手游吧》和《火影忍者忍者新世代吧》攻略贴汇总，大部分为作者自己提供，少部分为其余大神攻略。
 
+由于贴吧管理过于混乱，特收集整理游戏内容攻略贴，为爱发电，无任何获益。
+
+.. important::  攻略收集是一个持续的过程（这份文档依旧有部分未完成），欢迎更多的小伙伴一起参与，可直接提交ISSUE或私信联系：
+
+   - 百度贴吧：其实加菲不是猫
+   - Github：Gaffey not Cat
+   - Project Issue：https://github.com/wsjq5477/NarutoOLStrategy/issues
+   
 .. toctree::
    :maxdepth: 1
    :caption: Contents:

@@ -3,13 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 火影忍者忍者新世代攻略集's documentation!
+火影忍者忍者新世代攻略集
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
-
+   
+   /远征/远征攻略.md
+   /排行榜/第三期.md
 
 
 Indices and tables

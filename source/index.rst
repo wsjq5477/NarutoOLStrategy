@@ -15,17 +15,38 @@
    - Github：Gaffey not Cat
    - Project Issue：https://github.com/wsjq5477/NarutoOLStrategy/issues
    
+
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-   
-   /远征/远征攻略.md
-   /排行榜/第三期.md
+   :maxdepth: 2
+   :caption: 基本攻略:
+   :numbered:
+
+   0_基本攻略.md
 
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :caption: 进阶数值:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   1_进阶数值.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PVP阵容推荐:
+
+   2_PVP阵容推荐.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PVE阵容推荐:
+
+   3_PVE阵容推荐.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 限时活动:
+
+   4_限时活动.md

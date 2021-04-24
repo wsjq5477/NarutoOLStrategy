@@ -9,23 +9,44 @@
 
 由于贴吧管理过于混乱，特收集整理游戏内容攻略贴，为爱发电，无任何获益。
 
-所有攻略贴均私信征求作者同意，如侵犯版权要求下架，可直接提交ISSUE或私信联系：
+.. important::  攻略收集是一个持续的过程（这份文档依旧有部分未完成），欢迎更多的小伙伴一起参与，可直接提交ISSUE或私信联系：
 
-- 百度贴吧：其实加菲不是猫
-- GITHUB：Gaffey not Cat
-- ISSUE：https://github.com/wsjq5477/NarutoOLStrategy/issues
+   - 百度贴吧：其实加菲不是猫
+   - Github：Gaffey not Cat
+   - Project Issue：https://github.com/wsjq5477/NarutoOLStrategy/issues
+   
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-   
-   /远征/远征攻略.md
-   /排行榜/第三期.md
+   :maxdepth: 2
+   :caption: 基本攻略:
+   :numbered:
+
+   0_基本攻略.md
 
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :caption: 进阶数值:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   1_进阶数值.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PVP阵容推荐:
+
+   2_PVP阵容推荐.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PVE阵容推荐:
+
+   3_PVE阵容推荐.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 限时活动:
+
+   4_限时活动.md

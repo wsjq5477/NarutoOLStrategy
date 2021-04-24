@@ -17,22 +17,21 @@
    
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 基本攻略:
-   :numbered:
 
-   0_基本攻略.md
+   /0_基本攻略/【忍者排行】第五期：PVP强度排行.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 进阶攻略:
+
+   /1_进阶数值/数据研究第一期.md
+   /1_进阶数值/数据研究第二期.md
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 进阶数值:
-
-   1_进阶数值.md
-
-
-.. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: PVP阵容推荐:
 
    2_PVP阵容推荐.md
@@ -50,3 +49,4 @@
    :caption: 限时活动:
 
    4_限时活动.md
+   /4_限时活动/木叶委托.md

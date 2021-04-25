@@ -32,16 +32,28 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: PVP阵容推荐:
+   :caption: PVP:
 
-   2_PVP阵容推荐.md
+   /2_PVP阵容推荐/单人_斗祭战场.md
+   /2_PVP阵容推荐/单人_时空间对决.md
+   /2_PVP阵容推荐/单人无属性_冠军赛.md
+   /2_PVP阵容推荐/单人无属性_竞技场.md
+   /2_PVP阵容推荐/多人_羁绊对决.md
+   /2_PVP阵容推荐/多人_忍界对战.md
+   /2_PVP阵容推荐/自动_密林挑战.md
+   /2_PVP阵容推荐/自动_排位赛.md
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: PVE阵容推荐:
+   :maxdepth: 1
+   :caption: PVE:
 
-   3_PVE阵容推荐.md
+   /3_PVE阵容推荐/丰饶之间.md
+   /3_PVE阵容推荐/忍界远征.md
+   /3_PVE阵容推荐/忍者考试.md
+   /3_PVE阵容推荐/生存探险.md
+   /3_PVE阵容推荐/通灵兽试训.md
+   /3_PVE阵容推荐/魍魉之间.md
 
 
 .. toctree::

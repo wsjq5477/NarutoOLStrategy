@@ -28,4 +28,4 @@
 
 ## 忍符消耗材料表
 
-![img](../imgs/dfab1adca144ad34128c83d1c7a20cf431ad853a.jpg)
+![](../imgs/dfab1adca144ad34128c83d1c7a20cf431ad853a.jpg)
